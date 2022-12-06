@@ -1,3 +1,3 @@
 # cronograma_disciplinar
 
-> Uma tabela de cronograma disciplinar ideal para uma rotina
+> Uma tabela de cronograma disciplinar ideal para uma rotina.
